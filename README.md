@@ -1,3 +1,4 @@
 # demo
-this is my first git repo
-author amandeep singh parihar
+this is my first git repo.
+<br>
+Author:- Amandeep singh parihar.
